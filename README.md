@@ -1,3 +1,9 @@
+This repository has been **archived** and merged into **[CSF.ORM](https://github.com/csf-dev/CSF.ORM)**.  Further development on this work can be found there.
+
+*It was found that a number of repositories were so closely linked that they should be converted to a single repository, even though they are multiple separate NuGet packages.*
+
+---
+
 # Entity base types
 This library provides a number of base types and interfaces useful when working with ORMs and mapped entities.
 In particular, it introduces the concept of an 'identity', separated from the primitive values which make up that identity.
